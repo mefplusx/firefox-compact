@@ -13,20 +13,20 @@
 }
 
 #TabsToolbar {
-    margin-left: 20vw !important;
+    margin-left: 30vw !important;
 }
 
 /* Nav bar*/
 #nav-bar {
     background: transparent !important;
     margin-top: -36px !important;
-    margin-right: 80vw !important;
+    margin-right: 70vw !important;
 }
 
-/* URL bar */
+/* URL bar 
 #back-button {
     display: none !important;
-}
+}*/
 
 #forward-button {
     display: none !important;
